@@ -6,7 +6,7 @@ export default function Home() {
       <h1>Home Page</h1>
       <Link href='./login'>Fazer Login</Link>
       <Link href='./registro'>Criar Conta</Link>
-      <Link href='./recover'>Esqueci minha senha</Link>
+      <Link href='./recover'>Esqueci a senha</Link>
     </main>
   )
 }
